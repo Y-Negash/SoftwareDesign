@@ -1,3 +1,5 @@
+# STRUCTURAL DESIGN LAB 
+
 **Q1 . What do we mean by coupling and cohesion when discussing structured design?**
 
 Coupling describes how dependent one module is to another. For example, if editing one class changes another, this is considered tight coupling. Whereas, when modules are independent, it's considered loose coupling. 
