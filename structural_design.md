@@ -23,19 +23,19 @@ It also helps to visualise the whole process as well as modify the classes to cr
 
 1. Abstraction
 
-Abstraction is to interact with an object without having to know how it works.
+    Abstraction is to interact with an object without having to know how it works.
 
 2. Encapsulation
 
-Encapsulation is to hide data from other parts of the program or those who aren't authorised to access it.
+    Encapsulation is to hide data from other parts of the program or those who aren't authorised to access it.
 
 3. Inheritance
 
-This is when an object can inherit its functions and properties from another class.
+    This is when an object can inherit its functions and properties from another class.
 
 4. Polymorphism
 
-This is when an object can take different forms depending on where in the inheritance chain, the object's datatype is called from.
+    This is when an object can take different forms depending on where in the inheritance chain, the object's datatype is called from.
 
 **Q5. What is the strategy pattern? How would its implementation differ between a functional and object oriented system?**
 
